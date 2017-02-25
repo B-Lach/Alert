@@ -1,0 +1,6 @@
+framework module BLAlert {
+  umbrella header "BLAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

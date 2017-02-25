@@ -1,0 +1,16 @@
+PODS:
+  - BLAlert (0.1.0)
+
+DEPENDENCIES:
+  - BLAlert (from `../`)
+
+EXTERNAL SOURCES:
+  BLAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BLAlert: e2d1e8127b7b1d5901a498da592110f8ec359dd2
+
+PODFILE CHECKSUM: 0a934a36e79ecee7c3abd7ee3d7edd6ddb94e329
+
+COCOAPODS: 1.2.0
