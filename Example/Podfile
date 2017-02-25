@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BLAlert_Example' do
+  pod 'BLAlert', :path => '../'
+
+  target 'BLAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
